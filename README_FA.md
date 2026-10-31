@@ -2,10 +2,10 @@
 
 # داشبورد تجمیع اخبار فناوری (RSS Tech News Aggregator)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![HTML5](https://img.shields.io/badge/فرانت‌اند-HTML5%20%26%20CSS3-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://img.shields.io/badge/جاوااسکریپت-Vanilla%20ES6%2B-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Feed Service](https://img.shields.io/badge/سرویس-فیدهای%20زنده%20RSS-orange.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![HTML5](https://img.shields.io/badge/Frontend-HTML5%20%26%20CSS3-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20ES6%2B-F7DF1E.svg?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Feed Service](https://img.shields.io/badge/Feeds-Live%20RSS%20Aggregator-orange.svg)](#)
 
 [English](README.md) | فارسی
 
@@ -82,11 +82,12 @@ rss/
 ## مشارکت
 
 پیشنهاد افزودن خبرگزاری‌های جدید، بهبود استایل‌ها و ارتقای رابط کاربری با کمال میل پذیرفته می‌شود!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید بسازید (`git checkout -b feature/add-new-feed`).
-۳. تغییرات را کامیت کنید (`git commit -m 'Add new feed source'`).
-۴. تغییرات را به برنچ خود پوش کنید (`git push origin feature/add-new-feed`).
-۵. یک پول ریکوئست (Pull Request) باز نمایید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b feature/add-new-feed`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin feature/add-new-feed`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
