@@ -11,7 +11,7 @@ A lightweight, modern, client-side technology news aggregator dashboard that con
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Staying up to date with fast-moving tech news often involves checking multiple websites or heavy RSS reader apps. This project delivers an instant, zero-install web dashboard that curates domestic and international technology headlines in a single, elegant screen.
 
@@ -24,7 +24,7 @@ Key highlights:
 
 ---
 
-## ✨ Integrated Feed Sources
+## Integrated Feed Sources
 
 | Region / Tab | Publications & Feeds |
 | :--- | :--- |
@@ -33,7 +33,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ A modern web browser (Chrome, Firefox, Edge, Safari). No build tools, compilers,
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 rss/
@@ -77,7 +77,7 @@ rss/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, additional feed sources, and layout improvements are welcome!
 1. Fork the repository.
@@ -88,7 +88,8 @@ Contributions, additional feed sources, and layout improvements are welcome!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Free and open-source for personal and educational use.
+
